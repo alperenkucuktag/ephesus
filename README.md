@@ -1,5 +1,5 @@
 # ephesus
 
-<h1>ekran görüntüsü</h1>
+<h1>Screen</h1>
 
 ![](screna.gif)
